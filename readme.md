@@ -1,0 +1,1 @@
+# Demonstrate data sharing between actix web and actor
