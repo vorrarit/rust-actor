@@ -10,4 +10,6 @@ actix = "0.13.0"
 actix-rt = "2.7.0"
 actix-web = "4"
 chrono = "0.4.19"
+log = "0.4.17"
+log4rs = "1.1.1"
 sqlx = { version = "0.5.11", features = ["postgres", "runtime-actix-rustls", "chrono"] }
